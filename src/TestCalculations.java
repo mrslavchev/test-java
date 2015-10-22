@@ -24,4 +24,9 @@ public class TestCalculations {
 		System.out.println("dajdbahjdbad");
 		System.out.println("pe60");
 	}
+	
+	@Test
+	public void TestMultiplication2(){
+		Assert.assertEquals(Calculations.Multiplication(5, 5), 4);
+	}
 }
