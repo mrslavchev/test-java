@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="3" total="4" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="23" started-at="2015-10-21T14:36:03Z" finished-at="2015-10-21T14:36:03Z">
+  <suite name="Default suite" duration-ms="21" started-at="2015-10-22T07:02:11Z" finished-at="2015-10-22T07:02:11Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="23" started-at="2015-10-21T14:36:03Z" finished-at="2015-10-21T14:36:03Z">
+    <test name="Default test" duration-ms="21" started-at="2015-10-22T07:02:11Z" finished-at="2015-10-22T07:02:11Z">
       <class name="TestCalculations">
-        <test-method status="FAIL" signature="TestDivision()[pri:0, instance:TestCalculations@89990ff]" name="TestDivision" duration-ms="8" started-at="2015-10-21T17:36:03Z" finished-at="2015-10-21T17:36:03Z">
+        <test-method status="FAIL" signature="TestDivision()[pri:0, instance:TestCalculations@70da628b]" name="TestDivision" duration-ms="8" started-at="2015-10-22T10:02:11Z" finished-at="2015-10-22T10:02:11Z">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [4] but found [15]]]>
@@ -50,7 +50,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDivision -->
-        <test-method status="FAIL" signature="TestMultiplication()[pri:0, instance:TestCalculations@89990ff]" name="TestMultiplication" duration-ms="0" started-at="2015-10-21T17:36:03Z" finished-at="2015-10-21T17:36:03Z">
+        <test-method status="FAIL" signature="TestMultiplication()[pri:0, instance:TestCalculations@70da628b]" name="TestMultiplication" duration-ms="1" started-at="2015-10-22T10:02:11Z" finished-at="2015-10-22T10:02:11Z">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [4] but found [10]]]>
@@ -93,7 +93,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestMultiplication -->
-        <test-method status="FAIL" signature="TestSubtraction()[pri:0, instance:TestCalculations@89990ff]" name="TestSubtraction" duration-ms="0" started-at="2015-10-21T17:36:03Z" finished-at="2015-10-21T17:36:03Z">
+        <test-method status="FAIL" signature="TestSubtraction()[pri:0, instance:TestCalculations@70da628b]" name="TestSubtraction" duration-ms="1" started-at="2015-10-22T10:02:11Z" finished-at="2015-10-22T10:02:11Z">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [4] but found [0]]]>
@@ -136,7 +136,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestSubtraction -->
-        <test-method status="PASS" signature="TestSum()[pri:0, instance:TestCalculations@89990ff]" name="TestSum" duration-ms="0" started-at="2015-10-21T17:36:03Z" finished-at="2015-10-21T17:36:03Z">
+        <test-method status="PASS" signature="TestSum()[pri:0, instance:TestCalculations@70da628b]" name="TestSum" duration-ms="1" started-at="2015-10-22T10:02:11Z" finished-at="2015-10-22T10:02:11Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestSum -->

@@ -21,5 +21,6 @@ public class TestCalculations {
 	@Test
 	public void TestDivision(){
 		Assert.assertEquals(Calculations.Division(30, 2), 4);
+		System.out.println("dajdbahjdbad");
 	}
 }
