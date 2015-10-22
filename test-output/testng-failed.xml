@@ -7,6 +7,7 @@
         <methods>
           <include name="TestDivision"/>
           <include name="TestSubtraction"/>
+          <include name="TestMultiplication2"/>
           <include name="TestMultiplication"/>
         </methods>
       </class> <!-- TestCalculations -->
